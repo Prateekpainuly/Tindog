@@ -3,6 +3,11 @@
     color: #fff;
 }
 
+#features {
+    background-color: #fff;
+    color: #ff4c68;
+}
+
 .container-fluid {
     padding: 7% 15%;
 }
