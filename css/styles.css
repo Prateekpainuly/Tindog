@@ -20,6 +20,14 @@ h1 {
    padding-top: 20px;
 } 
 
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 520;
+} 
+
+
 h3 {
     font-size: 1.5rem;
     font-weight: 1000;
@@ -79,4 +87,6 @@ p{
  #testimonials {
      padding: 7% 15%;
      text-align: center;
+     background-color: #ef8172;
+     color: #fff;
  }
