@@ -73,3 +73,9 @@ p{
  .icon {
      color: #ef8172;
  }
+
+ /* testimonial section*/
+
+ #testimonials {
+     padding: 7% 15%;
+ }
